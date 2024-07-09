@@ -1,0 +1,8 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1C2A-4A13
+
+ Directory of C:\Users\Gopal\OneDrive\Desktop\ProjectGitTraining
+
+09-07-2024  21:18                 0 test.txt
+               1 File(s)              0 bytes
+               0 Dir(s)  78,278,139,904 bytes free
